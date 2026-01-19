@@ -1,7 +1,6 @@
 # Car Sales Clustering Analysis
 
-This project performs a clusterization analysis on a car sales dataset (sourced from Kaggle) to identify distinct customer segments. By understanding these segments, businesses can tailor their marketing, inventory, and sales strategies to better meet customer needs.
-
+This project performs a clusterization analysis on a car sales dataset (sourced from [Kaggle](https://www.kaggle.com/datasets/missionjee/car-sales-report)) to identify distinct customer segments. By understanding these segments, businesses can tailor their marketing, inventory, and sales strategies to better meet customer needs.
 ## Project Overview
 
 The main objective is to group customers based on their demographic information and purchasing behavior. The project involves:
@@ -49,7 +48,7 @@ The identified clusters provide actionable strategies for:
 3. **Run the analysis:**
    Open the Jupyter Notebook and run all cells:
    ```bash
-   jupyter notebook "Final Project.ipynb"
+   jupyter notebook "EDA_TRAIN_TEST.ipynb"
    ```
 
 ## Dependencies
@@ -64,4 +63,4 @@ The identified clusters provide actionable strategies for:
 - `tabulate`
 
 ---
-*Dataset source: Kaggle*
+*Dataset source: [Kaggle - Car Sales Report](https://www.kaggle.com/datasets/missionjee/car-sales-report)*
